@@ -15,3 +15,4 @@ The companies main database structure as seen below consists of four tables: **A
 
 **4. Sales_pipline**:
 
+![image](https://github.com/user-attachments/assets/494c3738-d397-4a8f-ab8d-2969614feea4)
